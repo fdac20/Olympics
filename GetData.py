@@ -1,4 +1,4 @@
-data = open("Summer-Olympic-medals-1976-to-2008.txt", "r")
+data = open('data.txt', 'r')
 
 contents = data.read()
 
