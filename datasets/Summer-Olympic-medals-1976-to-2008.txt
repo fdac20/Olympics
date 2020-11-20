@@ -1,5 +1,5 @@
 City	Year	Sport	Discipline	Event	Athlete	Gender	Country_Code	Country	Event_gender	Medal
-Montreal	1976	Aquatics	Diving	3m springboard	"K…HLER, Christa"	Women	GDR	East Germany	W	Silver
+Montreal	1976	Aquatics	Diving	3m springboard	"KoHLER, Christa"	Women	GDR	East Germany	W	Silver
 Montreal	1976	Aquatics	Diving	3m springboard	"KOSENKOV, Aleksandr"	Men	URS	Soviet Union	M	Bronze
 Montreal	1976	Aquatics	Diving	3m springboard	"BOGGS, Philip George"	Men	USA	United States	M	Gold
 Montreal	1976	Aquatics	Diving	3m springboard	"CAGNOTTO, Giorgio Franco"	Men	ITA	Italy	M	Silver
@@ -18,7 +18,7 @@ Montreal	1976	Aquatics	Swimming	1500m freestyle	"HOLLAND, Stephen"	Men	AUS	Austr
 Montreal	1976	Aquatics	Swimming	400m individual medley	"SMIRNOV, Andrei"	Men	URS	Soviet Union	M	Bronze
 Montreal	1976	Aquatics	Swimming	4x100m medley relay	"ANKE, Hannelore"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Aquatics	Swimming	800m freestyle	"BABASHOFF, Shirley Farber"	Women	USA	United States	W	Silver
-Montreal	1976	Aquatics	Swimming	800m freestyle	"TH†MER, Petra"	Women	GDR	East Germany	W	Gold
+Montreal	1976	Aquatics	Swimming	800m freestyle	"THUMER, Petra"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Aquatics	Swimming	4x100m freestyle relay	"SMITH, Rebecca"	Women	CAN	Canada	W	Bronze
 Montreal	1976	Aquatics	Swimming	200m backstroke	"ROCCA, Peter Drake"	Men	USA	United States	M	Silver
 Montreal	1976	Aquatics	Swimming	400m freestyle	"GOODELL, Brian Stuart"	Men	USA	United States	M	Gold
@@ -67,7 +67,7 @@ Montreal	1976	Aquatics	Swimming	4x100m medley relay	"SMITH-SLOAN, Susan Estelle"
 Montreal	1976	Aquatics	Swimming	4x100m medley relay	"COOK-HOGG, Wendy"	Women	CAN	Canada	W	Bronze
 Montreal	1976	Aquatics	Swimming	100m butterfly	"POLLACK, Andrea"	Women	GDR	East Germany	W	Silver
 Montreal	1976	Aquatics	Swimming	100m butterfly	"BOTTOM, Joseph Stuart"	Men	USA	United States	M	Silver
-Montreal	1976	Aquatics	Swimming	400m freestyle	"TH†MER, Petra"	Women	GDR	East Germany	W	Gold
+Montreal	1976	Aquatics	Swimming	400m freestyle	"THUMER, Petra"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Aquatics	Swimming	4x100m medley relay	"RICHTER, Ulrike"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Aquatics	Swimming	200m freestyle	"FURNISS, Bruce Macfarlane"	Men	USA	United States	M	Gold
 Montreal	1976	Aquatics	Swimming	100m breaststroke	"KOSHEVAYA, Marina"	Women	URS	Soviet Union	W	Bronze
@@ -203,7 +203,7 @@ Montreal	1976	Athletics	Athletics	4x100m relay	"ANISIMOVA, Vera"	Women	URS	Sovie
 Montreal	1976	Athletics	Athletics	discus throw	"SCHMIDT, Wolfgang"	Men	GDR	East Germany	M	Silver
 Montreal	1976	Athletics	Athletics	javelin throw	"SCHMIDT, Kathryn Joan"	Women	USA	United States	W	Bronze
 Montreal	1976	Athletics	Athletics	4x400m relay	"BRYANT, Rosalyn Evette"	Women	USA	United States	W	Silver
-Montreal	1976	Athletics	Athletics	4x100m relay	"OELSNER-G…HR, Marlies"	Women	GDR	East Germany	W	Gold
+Montreal	1976	Athletics	Athletics	4x100m relay	"OELSNER-GOHR, Marlies"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Athletics	Athletics	1500m	"WELLMANN, Paul-Heinz"	Men	FRG	West Germany	M	Bronze
 Montreal	1976	Athletics	Athletics	discus throw	"POWELL, John Gates"	Men	USA	United States	M	Bronze
 Montreal	1976	Athletics	Athletics	4x100m relay	"BESFAMILNAYA, Nadezhda"	Women	URS	Soviet Union	W	Bronze
@@ -222,7 +222,7 @@ Montreal	1976	Athletics	Athletics	110m hurdles	"DAVENPORT, Willie"	Men	USA	Unite
 Montreal	1976	Athletics	Athletics	20km walk	"BAUTISTA ROCHA, Daniel"	Men	MEX	Mexico	M	Gold
 Montreal	1976	Athletics	Athletics	discus throw	"SCHLAAK-JAHL, Evelin"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Athletics	Athletics	100m	"RICHTER-IRRGANG, Annegret"	Women	FRG	West Germany	W	Gold
-Montreal	1976	Athletics	Athletics	200m	"ECKERT-W…CKEL, BŠrbel"	Women	GDR	East Germany	W	Gold
+Montreal	1976	Athletics	Athletics	200m	"ECKERT-WOCKEL, Barbel"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Athletics	Athletics	4x400m relay	"PIETRZYK, Jerzy"	Men	POL	Poland	M	Silver
 Montreal	1976	Athletics	Athletics	400m	"BREHMER-LATHAN, Christina"	Women	GDR	East Germany	W	Silver
 Montreal	1976	Athletics	Athletics	shot put	"CHRISTOVA-TODOROVA, Ivanka Mikailova"	Women	BUL	Bulgaria	W	Gold
@@ -250,7 +250,7 @@ Montreal	1976	Athletics	Athletics	4x100m relay	"HELTEN, Inge"	Women	FRG	West Ger
 Montreal	1976	Athletics	Athletics	triple jump	"SANEEV, Viktor"	Men	URS	Soviet Union	M	Gold
 Montreal	1976	Athletics	Athletics	400m	"STROPAHL-STREIDT, Ellen"	Women	GDR	East Germany	W	Bronze
 Montreal	1976	Athletics	Athletics	5000m	"VIREN, Lasse"	Men	FIN	Finland	M	Gold
-Montreal	1976	Athletics	Athletics	4x100m relay	"ECKERT-W…CKEL, BŠrbel"	Women	GDR	East Germany	W	Gold
+Montreal	1976	Athletics	Athletics	4x100m relay	"ECKERT-WOCKEL, Barbel"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Athletics	Athletics	4x400m relay	"BREHMER-LATHAN, Christina"	Women	GDR	East Germany	W	Gold
 Montreal	1976	Athletics	Athletics	10000m	"VIREN, Lasse"	Men	FIN	Finland	M	Gold
 Montreal	1976	Athletics	Athletics	4x400m relay	"JAREMSKI, Zbigniew"	Men	POL	Poland	M	Silver
@@ -282,7 +282,7 @@ Montreal	1976	Athletics	Athletics	200m	"QUARRIE, Donald"	Men	JAM	Jamaica	M	Gold
 Montreal	1976	Athletics	Athletics	10000m	"LOPES, Carlos"	Men	POR	Portugal	M	Silver
 Montreal	1976	Athletics	Athletics	400m	"NEWHOUSE, Frederick Vaughn"	Men	USA	United States	M	Silver
 Montreal	1976	Athletics	Athletics	javelin throw	"SIITONEN, Hannu Juhani"	Men	FIN	Finland	M	Silver
-Montreal	1976	Athletics	Athletics	pole vault	"KALLIOM€KI, Antti Tapani"	Men	FIN	Finland	M	Silver
+Montreal	1976	Athletics	Athletics	pole vault	"KALLIOMOKI, Antti Tapani"	Men	FIN	Finland	M	Silver
 Montreal	1976	Athletics	Athletics	4x400m relay	"KOLESNIKOVA-ILYINA, Nadezhda"	Women	URS	Soviet Union	W	Bronze
 Montreal	1976	Athletics	Athletics	110m hurdles	"DRUT, Guy"	Men	FRA	France	M	Gold
 Montreal	1976	Athletics	Athletics	triple jump	"DE OLIVEIRA, Joao Carlos"	Men	BRA	Brazil	M	Bronze
