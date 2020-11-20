@@ -1,0 +1,54 @@
+Montreal	1976	Aquatics	Diving	10m platform	"WILSON, Deborah Keplar"	Women	USA	United States	W	Bronze
+Montreal	1976	Aquatics	Diving	10m platform	"LOUGANIS, Gregory"	Men	USA	United States	M	Silver
+Montreal	1976	Aquatics	Diving	10m platform	"VAYTSEKHOVSKAYA, Elena"	Women	URS	Soviet Union	W	Gold
+Montreal	1976	Aquatics	Diving	10m platform	"DIBIASI, Klaus"	Men	ITA	Italy	M	Gold
+Montreal	1976	Aquatics	Diving	10m platform	"ALEINIK, Vladimir"	Men	URS	Soviet Union	M	Bronze
+Montreal	1976	Aquatics	Diving	10m platform	"KNAPE-LINDBERGH, Ulrika"	Women	SWE	Sweden	W	Silver
+Moscow	1980	Aquatics	Diving	10m platform	"AMBARTSUMYAN, David"	Men	URS	Soviet Union	M	Bronze
+Moscow	1980	Aquatics	Diving	10m platform	"JaSCHKE, Martina"	Women	GDR	East Germany	W	Gold
+Moscow	1980	Aquatics	Diving	10m platform	"ALEINIK, Vladimir"	Men	URS	Soviet Union	M	Silver
+Moscow	1980	Aquatics	Diving	10m platform	"EMIRZIAN, Servard"	Women	URS	Soviet Union	W	Silver
+Moscow	1980	Aquatics	Diving	10m platform	"HOFFMANN, Falk"	Men	GDR	East Germany	M	Gold
+Moscow	1980	Aquatics	Diving	10m platform	"TSOTADZE, Liana"	Women	URS	Soviet Union	W	Bronze
+LosAngeles	1984	Aquatics	Diving	10m platform	"KIMBALL, Bruce D."	Men	USA	United States	M	Silver
+LosAngeles	1984	Aquatics	Diving	10m platform	"LI, Kong-Zheng"	Men	CHN	China	M	Bronze
+LosAngeles	1984	Aquatics	Diving	10m platform	"MITCHELL, Michele"	Women	USA	United States	W	Silver
+LosAngeles	1984	Aquatics	Diving	10m platform	"LOUGANIS, Gregory"	Men	USA	United States	M	Gold
+LosAngeles	1984	Aquatics	Diving	10m platform	"WYLAND-WILLIAMS, Wendy Lian"	Women	USA	United States	W	Bronze
+LosAngeles	1984	Aquatics	Diving	10m platform	"ZHOU, Ji-Hong"	Women	CHN	China	W	Gold
+Seoul	1988	Aquatics	Diving	10m platform	"MENA CAMPOS, Jesus"	Men	MEX	Mexico	M	Bronze
+Seoul	1988	Aquatics	Diving	10m platform	"XU, Yan-Mei"	Women	CHN	China	W	Gold
+Seoul	1988	Aquatics	Diving	10m platform	"XIONG, Ni"	Men	CHN	China	M	Silver
+Seoul	1988	Aquatics	Diving	10m platform	"MITCHELL, Michele"	Women	USA	United States	W	Silver
+Seoul	1988	Aquatics	Diving	10m platform	"WYLAND-WILLIAMS, Wendy Lian"	Women	USA	United States	W	Bronze
+Seoul	1988	Aquatics	Diving	10m platform	"LOUGANIS, Gregory"	Men	USA	United States	M	Gold
+Barcelona	1992	Aquatics	Diving	10m platform	"XIONG, Ni"	Men	CHN	China	M	Bronze
+Barcelona	1992	Aquatics	Diving	10m platform	"FU, Mingxia"	Women	CHN	China	W	Gold
+Barcelona	1992	Aquatics	Diving	10m platform	"SUN, Shuwei"	Men	CHN	China	M	Gold
+Barcelona	1992	Aquatics	Diving	10m platform	"MIROCHINA, Elena"	Women	EUN	Unified team	W	Silver
+Barcelona	1992	Aquatics	Diving	10m platform	"CLARK, Mary Ellen"	Women	USA	United States	W	Bronze
+Barcelona	1992	Aquatics	Diving	10m platform	"DONIE, Scott R."	Men	USA	United States	M	Silver
+Atlanta	1996	Aquatics	Diving	10m platform	"HEMPEL, Jan"	Men	GER	Germany	M	Silver
+Atlanta	1996	Aquatics	Diving	10m platform	"CLARK, Mary Ellen"	Women	USA	United States	W	Bronze
+Atlanta	1996	Aquatics	Diving	10m platform	"SAUTIN, Dmitry"	Men	RUS	Russia	M	Gold
+Atlanta	1996	Aquatics	Diving	10m platform	"FU, Mingxia"	Women	CHN	China	W	Gold
+Atlanta	1996	Aquatics	Diving	10m platform	"WALTER, Annika"	Women	GER	Germany	W	Silver
+Atlanta	1996	Aquatics	Diving	10m platform	"XIAO, Hailiang"	Men	CHN	China	M	Bronze
+Sydney	2000	Aquatics	Diving	10m platform	"HU, Jia"	Men	CHN	China	M	Silver
+Sydney	2000	Aquatics	Diving	10m platform	"WILKINSON, Laura"	Women	USA	United States	W	Gold
+Sydney	2000	Aquatics	Diving	10m platform	"SAUTIN, Dmitry"	Men	RUS	Russia	M	Bronze
+Sydney	2000	Aquatics	Diving	10m platform	"MONTMINY, Anne Katherine"	Women	CAN	Canada	W	Bronze
+Sydney	2000	Aquatics	Diving	10m platform	"LI, Na"	Women	CHN	China	W	Silver
+Sydney	2000	Aquatics	Diving	10m platform	"TIAN, Liang"	Men	CHN	China	M	Gold
+Athens	2004	Aquatics	Diving	10m platform	"LAO, Lishi"	Women	CHN	China	W	Silver
+Athens	2004	Aquatics	Diving	10m platform	"HELM, Mathew"	Men	AUS	Australia	M	Silver
+Athens	2004	Aquatics	Diving	10m platform	"NEWBERY, Chantelle"	Women	AUS	Australia	W	Gold
+Athens	2004	Aquatics	Diving	10m platform	"TIAN, Liang"	Men	CHN	China	M	Bronze
+Athens	2004	Aquatics	Diving	10m platform	"TOURKY, Loudy"	Women	AUS	Australia	W	Bronze
+Athens	2004	Aquatics	Diving	10m platform	"HU, Jia"	Men	CHN	China	M	Gold
+Beijing	2008	Aquatics	Diving	10m platform	"ZHOU, Luxin"	Men	CHN	China	M	Silver
+Beijing	2008	Aquatics	Diving	10m platform	"WANG, Xin"	Women	CHN	China	W	Bronze
+Beijing	2008	Aquatics	Diving	10m platform	"CHEN, Ruolin"	Women	CHN	China	W	Gold
+Beijing	2008	Aquatics	Diving	10m platform	"MITCHAM, Matthew"	Men	AUS	Australia	M	Gold
+Beijing	2008	Aquatics	Diving	10m platform	"HEYMANS, Emilie"	Women	CAN	Canada	W	Silver
+Beijing	2008	Aquatics	Diving	10m platform	"GALPERIN, Gleb"	Men	RUS	Russia	M	Bronze

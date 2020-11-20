@@ -1,0 +1,162 @@
+Montreal	1976	Archery	Archery	individual FITA round	"RYON, Luann Marie"	Women	USA	United States	W	Gold
+Montreal	1976	Archery	Archery	individual FITA round	"PACE, Darrell Owen"	Men	USA	United States	M	Gold
+Montreal	1976	Archery	Archery	individual FITA round	"MICHINAGA, Hiroshi"	Men	JPN	Japan	M	Silver
+Montreal	1976	Archery	Archery	individual FITA round	"FERRARI, Giancarlo"	Men	ITA	Italy	M	Bronze
+Montreal	1976	Archery	Archery	individual FITA round	"RUSTAMOVA, Zebiniso"	Women	URS	Soviet Union	W	Bronze
+Montreal	1976	Archery	Archery	individual FITA round	"KOVPAN, Valentina"	Women	URS	Soviet Union	W	Silver
+Moscow	1980	Archery	Archery	individual FITA round	"MERILUOTO-AALTONEN, Paivi"	Women	FIN	Finland	W	Bronze
+Moscow	1980	Archery	Archery	individual FITA round	"LOSABERIDZE, Keto"	Women	URS	Soviet Union	W	Gold
+Moscow	1980	Archery	Archery	individual FITA round	"BUTUZOVA, Natalia"	Women	URS	Soviet Union	W	Silver
+Moscow	1980	Archery	Archery	individual FITA round	"FERRARI, Giancarlo"	Men	ITA	Italy	M	Bronze
+Moscow	1980	Archery	Archery	individual FITA round	"POIKOLAINEN, Tomi"	Men	FIN	Finland	M	Gold
+Moscow	1980	Archery	Archery	individual FITA round	"ISACHENKO, Boris"	Men	URS	Soviet Union	M	Silver
+LosAngeles	1984	Archery	Archery	individual FITA round	"KIM, Jin-Ho"	Women	KOR	"Korea, South"	W	Bronze
+LosAngeles	1984	Archery	Archery	individual FITA round	"MCKINNEY, Richard Lee"	Men	USA	United States	M	Silver
+LosAngeles	1984	Archery	Archery	individual FITA round	"YAMAMOTO, Hiroshi"	Men	JPN	Japan	M	Bronze
+LosAngeles	1984	Archery	Archery	individual FITA round	"SEO, Hyang-Soon"	Women	KOR	"Korea, South"	W	Gold
+LosAngeles	1984	Archery	Archery	individual FITA round	"PACE, Darrell Owen"	Men	USA	United States	M	Gold
+LosAngeles	1984	Archery	Archery	individual FITA round	"LI, Ling-Juan"	Women	CHN	China	W	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"SKILLMAN, Melanie Soltysik"	Women	USA	United States	W	Bronze
+Seoul	1988	Archery	Archery	teams FITA round	"PACE, Darrell Owen"	Men	USA	United States	M	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"CHUN, In-Soo"	Men	KOR	"Korea, South"	M	Gold
+Seoul	1988	Archery	Archery	teams FITA round	"KIM, Soo-Nyung"	Women	KOR	"Korea, South"	W	Gold
+Seoul	1988	Archery	Archery	teams FITA round	"YUN, Young-Sook"	Women	KOR	"Korea, South"	W	Gold
+Seoul	1988	Archery	Archery	teams FITA round	"PRIESTMAN, Richard John"	Men	GBR	United Kingdom	M	Bronze
+Seoul	1988	Archery	Archery	individual FITA round	"KIM, Soo-Nyung"	Women	KOR	"Korea, South"	W	Gold
+Seoul	1988	Archery	Archery	individual FITA round	"BARRS, Jay"	Men	USA	United States	M	Gold
+Seoul	1988	Archery	Archery	individual FITA round	"YUN, Young-Sook"	Women	KOR	"Korea, South"	W	Bronze
+Seoul	1988	Archery	Archery	teams FITA round	"BARRS, Jay"	Men	USA	United States	M	Silver
+Seoul	1988	Archery	Archery	individual FITA round	"WANG, Hee-Kyung"	Women	KOR	"Korea, South"	W	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"HANDAYANI, Lilies"	Women	INA	Indonesia	W	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"LEE, Han-Sup"	Men	KOR	"Korea, South"	M	Gold
+Seoul	1988	Archery	Archery	teams FITA round	"WATSON, Leroy"	Men	GBR	United Kingdom	M	Bronze
+Seoul	1988	Archery	Archery	teams FITA round	"WARDHANI, Kusuma"	Women	INA	Indonesia	W	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"OCHS, Deborah Lynn"	Women	USA	United States	W	Bronze
+Seoul	1988	Archery	Archery	teams FITA round	"PARKER, Denise"	Women	USA	United States	W	Bronze
+Seoul	1988	Archery	Archery	individual FITA round	"ESHEEV, Vladimir"	Men	URS	Soviet Union	M	Bronze
+Seoul	1988	Archery	Archery	teams FITA round	"PARK, Sung-Soo"	Men	KOR	"Korea, South"	M	Gold
+Seoul	1988	Archery	Archery	teams FITA round	"MCKINNEY, Richard Lee"	Men	USA	United States	M	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"HALLARD, Steven"	Men	GBR	United Kingdom	M	Bronze
+Seoul	1988	Archery	Archery	teams FITA round	"SAIMAN, Nurfitriyana"	Women	INA	Indonesia	W	Silver
+Seoul	1988	Archery	Archery	individual FITA round	"PARK, Sung-Soo"	Men	KOR	"Korea, South"	M	Silver
+Seoul	1988	Archery	Archery	teams FITA round	"WANG, Hee-Kyung"	Women	KOR	"Korea, South"	W	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"WANG, Hong"	Women	CHN	China	W	Silver
+Barcelona	1992	Archery	Archery	individual (FITA Olympic round - 70m)	"CHUNG, Jae-Hun"	Men	KOR	"Korea, South"	M	Silver
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"VALEEVA, Natalia"	Women	EUN	Unified team	W	Bronze
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"ARZHANNIKOVA, Lyudmila"	Women	EUN	Unified team	W	Bronze
+Barcelona	1992	Archery	Archery	individual (FITA Olympic round - 70m)	"CHO, Youn-Jeong"	Women	KOR	"Korea, South"	W	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"LEE, Eun Kyung"	Women	KOR	"Korea, South"	W	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"HOLGADO ROMERO, Juan Carlos"	Men	ESP	Spain	M	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"LIPPONEN, Jari"	Men	FIN	Finland	M	Silver
+Barcelona	1992	Archery	Archery	individual (FITA Olympic round - 70m)	"FLUTE, Sebastien"	Men	FRA	France	M	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"VAZQUEZ, Antonio"	Men	ESP	Spain	M	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"WANG, Xiaozhu"	Women	CHN	China	W	Silver
+Barcelona	1992	Archery	Archery	individual (FITA Olympic round - 70m)	"TERRY, Simon"	Men	GBR	United Kingdom	M	Bronze
+Barcelona	1992	Archery	Archery	individual (FITA Olympic round - 70m)	"KIM, Soo-Nyung"	Women	KOR	"Korea, South"	W	Silver
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Soo-Nyung"	Women	KOR	"Korea, South"	W	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"KVRIVICHVILI, Khatouna"	Women	EUN	Unified team	W	Bronze
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"CHO, Youn-Jeong"	Women	KOR	"Korea, South"	W	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"TERRY, Simon"	Men	GBR	United Kingdom	M	Bronze
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"HALLARD, Steven"	Men	GBR	United Kingdom	M	Bronze
+Barcelona	1992	Archery	Archery	individual (FITA Olympic round - 70m)	"VALEEVA, Natalia"	Women	EUN	Unified team	W	Bronze
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"MENENDEZ VALLIN, Alfonso"	Men	ESP	Spain	M	Gold
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"FALCK, Ismo Kalevi"	Men	FIN	Finland	M	Silver
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"PRIESTMAN, Richard John"	Men	GBR	United Kingdom	M	Bronze
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"POIKOLAINEN, Tomi"	Men	FIN	Finland	M	Silver
+Barcelona	1992	Archery	Archery	team (FITA Olympic round - 70m)	"MA, Xiangjun"	Women	CHN	China	W	Silver
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"NOWICKA, Joanna"	Women	POL	Poland	W	Bronze
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Jo-Sun"	Women	KOR	"Korea, South"	W	Gold
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"YOUN, Hye-Young"	Women	KOR	"Korea, South"	W	Gold
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"JANG, Yong-Ho"	Men	KOR	"Korea, South"	M	Silver
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"JOHNSON, Richard"	Men	USA	United States	M	Gold
+Atlanta	1996	Archery	Archery	individual (FITA Olympic round - 70m)	"KIM, Kyung-Wook"	Women	KOR	"Korea, South"	W	Gold
+Atlanta	1996	Archery	Archery	individual (FITA Olympic round - 70m)	"OH, Kyo-Moon"	Men	KOR	"Korea, South"	M	Bronze
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"OH, Kyo-Moon"	Men	KOR	"Korea, South"	M	Silver
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"DZIECIOL, Iwona"	Women	POL	Poland	W	Bronze
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Kyung-Wook"	Women	KOR	"Korea, South"	W	Gold
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"BISIANI, Matteo"	Men	ITA	Italy	M	Bronze
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"HUISH, Justin"	Men	USA	United States	M	Gold
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"WHITE, Rodney"	Men	USA	United States	M	Gold
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"PARENTI, Andrea"	Men	ITA	Italy	M	Bronze
+Atlanta	1996	Archery	Archery	individual (FITA Olympic round - 70m)	"SADOVNYCHA, Olena"	Women	UKR	Ukraine	W	Bronze
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"WAGNER, Sandra"	Women	GER	Germany	W	Silver
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"PFOHL, Cornelia"	Women	GER	Germany	W	Silver
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"KLATA, Katarzyna"	Women	POL	Poland	W	Bronze
+Atlanta	1996	Archery	Archery	individual (FITA Olympic round - 70m)	"PETERSSON, Magnus"	Men	SWE	Sweden	M	Silver
+Atlanta	1996	Archery	Archery	individual (FITA Olympic round - 70m)	"HE, Ying"	Women	CHN	China	W	Silver
+Atlanta	1996	Archery	Archery	individual (FITA Olympic round - 70m)	"HUISH, Justin"	Men	USA	United States	M	Gold
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Bo-Ram"	Men	KOR	"Korea, South"	M	Silver
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"FRANGILLI, Michele"	Men	ITA	Italy	M	Bronze
+Atlanta	1996	Archery	Archery	team (FITA Olympic round - 70m)	"MENSING, Barbara"	Women	GER	Germany	W	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Soo-Nyung"	Women	KOR	"Korea, South"	W	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"BISIANI, Matteo"	Men	ITA	Italy	M	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"JOHNSON, Richard"	Men	USA	United States	M	Bronze
+Sydney	2000	Archery	Archery	individual (FITA Olympic round - 70m)	"YUN, Mi-Jin"	Women	KOR	"Korea, South"	W	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Nam-Soon"	Women	KOR	"Korea, South"	W	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"YUN, Mi-Jin"	Women	KOR	"Korea, South"	W	Gold
+Sydney	2000	Archery	Archery	individual (FITA Olympic round - 70m)	"KIM, Nam-Soon"	Women	KOR	"Korea, South"	W	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"MENSING, Barbara"	Women	GER	Germany	W	Bronze
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"WAGNER, Sandra"	Women	GER	Germany	W	Bronze
+Sydney	2000	Archery	Archery	individual (FITA Olympic round - 70m)	"FAIRWEATHER, Simon"	Men	AUS	Australia	M	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"SERDYUK, Kateryna"	Women	UKR	Ukraine	W	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"OH, Kyo-Moon"	Men	KOR	"Korea, South"	M	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"BURDEYNA, Nataliya"	Women	UKR	Ukraine	W	Silver
+Sydney	2000	Archery	Archery	individual (FITA Olympic round - 70m)	"VAN ALTEN, Wietse"	Men	NED	Netherlands	M	Bronze
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"DI BUO, Ilario"	Men	ITA	Italy	M	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"SADOVNYCHA, Olena"	Women	UKR	Ukraine	W	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"FRANGILLI, Michele"	Men	ITA	Italy	M	Silver
+Sydney	2000	Archery	Archery	individual (FITA Olympic round - 70m)	"WUNDERLE, Victor"	Men	USA	United States	M	Silver
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"WHITE, Rodney"	Men	USA	United States	M	Bronze
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"PFOHL, Cornelia"	Women	GER	Germany	W	Bronze
+Sydney	2000	Archery	Archery	individual (FITA Olympic round - 70m)	"KIM, Soo-Nyung"	Women	KOR	"Korea, South"	W	Bronze
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"JANG, Yong-Ho"	Men	KOR	"Korea, South"	M	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"KIM, Chung-Tae"	Men	KOR	"Korea, South"	M	Gold
+Sydney	2000	Archery	Archery	team (FITA Olympic round - 70m)	"WUNDERLE, Victor"	Men	USA	United States	M	Bronze
+Athens	2004	Archery	Archery	individual (FITA Olympic round - 70m)	"YAMAMOTO, Hiroshi"	Men	JPN	Japan	M	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"PARK, Sung-Hyun"	Women	KOR	"Korea, South"	W	Gold
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"CHEN, Szu Yuan"	Men	TPE	Taiwan	M	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"LIN, Sang"	Women	CHN	China	W	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"IM, Dong Hyun"	Men	KOR	"Korea, South"	M	Gold
+Athens	2004	Archery	Archery	individual (FITA Olympic round - 70m)	"PARK, Sung-Hyun"	Women	KOR	"Korea, South"	W	Gold
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"YUAN, Shu Chi"	Women	TPE	Taiwan	W	Bronze
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"SERDYUK, Oleksandr"	Men	UKR	Ukraine	M	Bronze
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"HRACHOV, Dmytro"	Men	UKR	Ukraine	M	Bronze
+Athens	2004	Archery	Archery	individual (FITA Olympic round - 70m)	"GALIAZZO, Marco"	Men	ITA	Italy	M	Gold
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"HE, Ying"	Women	CHN	China	W	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"JANG, Yong-Ho"	Men	KOR	"Korea, South"	M	Gold
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"RUBAN, Viktor"	Men	UKR	Ukraine	M	Bronze
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"LIU, Ming Huang"	Men	TPE	Taiwan	M	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"PARK, Kyung Mo"	Men	KOR	"Korea, South"	M	Gold
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"CHEN, Li Ju"	Women	TPE	Taiwan	W	Bronze
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"WU, Hui Ju"	Women	TPE	Taiwan	W	Bronze
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"YUN, Mi-Jin"	Women	KOR	"Korea, South"	W	Gold
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"ZHANG, Juan Juan"	Women	CHN	China	W	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"LEE, Sung Jin"	Women	KOR	"Korea, South"	W	Gold
+Athens	2004	Archery	Archery	individual (FITA Olympic round - 70m)	"LEE, Sung Jin"	Women	KOR	"Korea, South"	W	Silver
+Athens	2004	Archery	Archery	team (FITA Olympic round - 70m)	"WANG, Cheng Pang"	Men	TPE	Taiwan	M	Silver
+Athens	2004	Archery	Archery	individual (FITA Olympic round - 70m)	"WILLIAMSON, Alison"	Women	GBR	United Kingdom	W	Bronze
+Athens	2004	Archery	Archery	individual (FITA Olympic round - 70m)	"CUDDIHY, Tim"	Men	AUS	Australia	M	Bronze
+Beijing	2008	Archery	Archery	individual (FITA Olympic round - 70m)	"RUBAN, Viktor"	Men	UKR	Ukraine	M	Gold
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"YUN, Ok-Hee"	Women	KOR	"Korea, South"	W	Gold
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"NESPOLI, Mauro"	Men	ITA	Italy	M	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"XUE, Hai Feng"	Men	CHN	China	M	Bronze
+Beijing	2008	Archery	Archery	individual (FITA Olympic round - 70m)	"PARK, Sung-Hyun"	Women	KOR	"Korea, South"	W	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"DI BUO', Ilario"	Men	ITA	Italy	M	Silver
+Beijing	2008	Archery	Archery	individual (FITA Olympic round - 70m)	"ZHANG, Juan Juan"	Women	CHN	China	W	Gold
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"JIANG, Lin"	Men	CHN	China	M	Bronze
+Beijing	2008	Archery	Archery	individual (FITA Olympic round - 70m)	"YUN, Ok-Hee"	Women	KOR	"Korea, South"	W	Bronze
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"GUO, Dan"	Women	CHN	China	W	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"ARNOLD, Virginie"	Women	FRA	France	W	Bronze
+Beijing	2008	Archery	Archery	individual (FITA Olympic round - 70m)	"PARK, Kyung-Mo"	Men	KOR	"Korea, South"	M	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"CHEN, Ling"	Women	CHN	China	W	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"GALIAZZO, Marco"	Men	ITA	Italy	M	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"LI, Wenquan"	Men	CHN	China	M	Bronze
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"JOO, Hyun-Jung"	Women	KOR	"Korea, South"	W	Gold
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"LEE, Chang-Hwan"	Men	KOR	"Korea, South"	M	Gold
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"SCHUH, Berengere"	Women	FRA	France	W	Bronze
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"IM, Dong-Hyun"	Men	KOR	"Korea, South"	M	Gold
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"PARK, Kyung-Mo"	Men	KOR	"Korea, South"	M	Gold
+Beijing	2008	Archery	Archery	individual (FITA Olympic round - 70m)	"BADENOV, Bair"	Men	RUS	Russia	M	Bronze
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"ZHANG, Juan Juan"	Women	CHN	China	W	Silver
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"DODEMONT, Sophie"	Women	FRA	France	W	Bronze
+Beijing	2008	Archery	Archery	team (FITA Olympic round - 70m)	"PARK, Sung-Hyun"	Women	KOR	"Korea, South"	W	Gold

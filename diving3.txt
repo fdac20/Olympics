@@ -1,0 +1,54 @@
+Montreal	1976	Aquatics	Diving	3m springboard	"KoHLER, Christa"	Women	GDR	East Germany	W	Silver
+Montreal	1976	Aquatics	Diving	3m springboard	"KOSENKOV, Aleksandr"	Men	URS	Soviet Union	M	Bronze
+Montreal	1976	Aquatics	Diving	3m springboard	"BOGGS, Philip George"	Men	USA	United States	M	Gold
+Montreal	1976	Aquatics	Diving	3m springboard	"CAGNOTTO, Giorgio Franco"	Men	ITA	Italy	M	Silver
+Montreal	1976	Aquatics	Diving	3m springboard	"POTTER-MCINGVALE, Cynthia"	Women	USA	United States	W	Bronze
+Montreal	1976	Aquatics	Diving	3m springboard	"CHANDLER, Jennifer Kay"	Women	USA	United States	W	Gold
+Moscow	1980	Aquatics	Diving	3m springboard	"GUTHKE, Karin"	Women	GDR	East Germany	W	Bronze
+Moscow	1980	Aquatics	Diving	3m springboard	"PROEBER, Martina"	Women	GDR	East Germany	W	Silver
+Moscow	1980	Aquatics	Diving	3m springboard	"PORTNOV, Aleksandr"	Men	URS	Soviet Union	M	Gold
+Moscow	1980	Aquatics	Diving	3m springboard	"GIRON, Carlos"	Men	MEX	Mexico	M	Silver
+Moscow	1980	Aquatics	Diving	3m springboard	"KALININA, Irina"	Women	URS	Soviet Union	W	Gold
+Moscow	1980	Aquatics	Diving	3m springboard	"CAGNOTTO, Giorgio Franco"	Men	ITA	Italy	M	Bronze
+LosAngeles	1984	Aquatics	Diving	3m springboard	"MCCORMICK, Kelly Anne"	Women	USA	United States	W	Silver
+LosAngeles	1984	Aquatics	Diving	3m springboard	"MERRIOTT, Ronald Marshall"	Men	USA	United States	M	Bronze
+LosAngeles	1984	Aquatics	Diving	3m springboard	"SEUFERT, Christina"	Women	USA	United States	W	Bronze
+LosAngeles	1984	Aquatics	Diving	3m springboard	"TAN, Liang-De"	Men	CHN	China	M	Silver
+LosAngeles	1984	Aquatics	Diving	3m springboard	"LOUGANIS, Gregory"	Men	USA	United States	M	Gold
+LosAngeles	1984	Aquatics	Diving	3m springboard	"BERNIER, Sylvie"	Women	CAN	Canada	W	Gold
+Seoul	1988	Aquatics	Diving	3m springboard	"TAN, Liang-De"	Men	CHN	China	M	Silver
+Seoul	1988	Aquatics	Diving	3m springboard	"GAO, Min"	Women	CHN	China	W	Gold
+Seoul	1988	Aquatics	Diving	3m springboard	"LI, De-Liang"	Men	CHN	China	M	Bronze
+Seoul	1988	Aquatics	Diving	3m springboard	"MCCORMICK, Kelly Anne"	Women	USA	United States	W	Bronze
+Seoul	1988	Aquatics	Diving	3m springboard	"LI, Qing"	Women	CHN	China	W	Silver
+Seoul	1988	Aquatics	Diving	3m springboard	"LOUGANIS, Gregory"	Men	USA	United States	M	Gold
+Barcelona	1992	Aquatics	Diving	3m springboard	"LENZI, Mark Edward"	Men	USA	United States	M	Gold
+Barcelona	1992	Aquatics	Diving	3m springboard	"LACHKO, Irina"	Women	EUN	Unified team	W	Silver
+Barcelona	1992	Aquatics	Diving	3m springboard	"SAUTIN, Dmitry"	Men	EUN	Unified team	M	Bronze
+Barcelona	1992	Aquatics	Diving	3m springboard	"BALDUS, Brita Pia"	Women	GER	Germany	W	Bronze
+Barcelona	1992	Aquatics	Diving	3m springboard	"TAN, Liang-De"	Men	CHN	China	M	Silver
+Barcelona	1992	Aquatics	Diving	3m springboard	"GAO, Min"	Women	CHN	China	W	Gold
+Atlanta	1996	Aquatics	Diving	3m springboard	"YU, Zhuocheng"	Men	CHN	China	M	Silver
+Atlanta	1996	Aquatics	Diving	3m springboard	"XIONG, Ni"	Men	CHN	China	M	Gold
+Atlanta	1996	Aquatics	Diving	3m springboard	"LASHKO, Irina"	Women	RUS	Russia	W	Silver
+Atlanta	1996	Aquatics	Diving	3m springboard	"PELLETIER, Annie"	Women	CAN	Canada	W	Bronze
+Atlanta	1996	Aquatics	Diving	3m springboard	"FU, Mingxia"	Women	CHN	China	W	Gold
+Atlanta	1996	Aquatics	Diving	3m springboard	"LENZI, Mark Edward"	Men	USA	United States	M	Bronze
+Sydney	2000	Aquatics	Diving	3m springboard	"GUO, Jingjing"	Women	CHN	China	W	Silver
+Sydney	2000	Aquatics	Diving	3m springboard	"PLATAS, Fernando"	Men	MEX	Mexico	M	Silver
+Sydney	2000	Aquatics	Diving	3m springboard	"FU, Mingxia"	Women	CHN	China	W	Gold
+Sydney	2000	Aquatics	Diving	3m springboard	"LINDNER, Doerte"	Women	GER	Germany	W	Bronze
+Sydney	2000	Aquatics	Diving	3m springboard	"XIONG, Ni"	Men	CHN	China	M	Gold
+Sydney	2000	Aquatics	Diving	3m springboard	"SAUTIN, Dmitry"	Men	RUS	Russia	M	Bronze
+Athens	2004	Aquatics	Diving	3m springboard	"DESPATIE, Alexandre"	Men	CAN	Canada	M	Silver
+Athens	2004	Aquatics	Diving	3m springboard	"SAUTIN, Dmitry"	Men	RUS	Russia	M	Bronze
+Athens	2004	Aquatics	Diving	3m springboard	"PAKHALINA, Ioulia"	Women	RUS	Russia	W	Bronze
+Athens	2004	Aquatics	Diving	3m springboard	"PENG, Bo"	Men	CHN	China	M	Gold
+Athens	2004	Aquatics	Diving	3m springboard	"GUO, Jingjing"	Women	CHN	China	W	Gold
+Athens	2004	Aquatics	Diving	3m springboard	"WU, Minxia"	Women	CHN	China	W	Silver
+Beijing	2008	Aquatics	Diving	3m springboard	"QIN, Kai"	Men	CHN	China	M	Bronze
+Beijing	2008	Aquatics	Diving	3m springboard	"HE, Chong"	Men	CHN	China	M	Gold
+Beijing	2008	Aquatics	Diving	3m springboard	"DESPATIE, Alexandre"	Men	CAN	Canada	M	Silver
+Beijing	2008	Aquatics	Diving	3m springboard	"GUO, Jingjing"	Women	CHN	China	W	Gold
+Beijing	2008	Aquatics	Diving	3m springboard	"PAKHALINA, Julia"	Women	RUS	Russia	W	Silver
+Beijing	2008	Aquatics	Diving	3m springboard	"WU, Minxia"	Women	CHN	China	W	Bronze

@@ -1,0 +1,59 @@
+Montreal	1976	Gymnastics	Artistic G.	floor exercises	"KIM, Nelli"	Women	URS	Soviet Union	W	Gold
+Montreal	1976	Gymnastics	Artistic G.	floor exercises	"TURISCHEVA, Lyudmila"	Women	URS	Soviet Union	W	Silver
+Montreal	1976	Gymnastics	Artistic G.	floor exercises	"KORMANN, Peter Martin"	Men	USA	United States	M	Bronze
+Montreal	1976	Gymnastics	Artistic G.	floor exercises	"ANDRIANOV, Nikolay"	Men	URS	Soviet Union	M	Gold
+Montreal	1976	Gymnastics	Artistic G.	floor exercises	"COMANECI, Nadia"	Women	ROU	Romania	W	Bronze
+Montreal	1976	Gymnastics	Artistic G.	floor exercises	"MARCHENKO, Vladimir"	Men	URS	Soviet Union	M	Silver
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"DITYATIN, Aleksandr"	Men	URS	Soviet Union	M	Bronze
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"BRUCKNER, Roland"	Men	GDR	East Germany	M	Gold
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"KIM, Nelli"	Women	URS	Soviet Union	W	Gold
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"ANDRIANOV, Nikolay"	Men	URS	Soviet Union	M	Silver
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"GNAUCK, Maxi"	Women	GDR	East Germany	W	Bronze
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"COMANECI, Nadia"	Women	ROU	Romania	W	Gold
+Moscow	1980	Gymnastics	Artistic G.	floor exercises	"SHAPOSHNIKOVA, Natalia"	Women	URS	Soviet Union	W	Bronze
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"LI, Ning"	Men	CHN	China	M	Gold
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"VATUONE, Philippe"	Men	FRA	France	M	Bronze
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"SZABO, Ecaterina"	Women	ROU	Romania	W	Gold
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"SOTOMURA, Koji"	Men	JPN	Japan	M	Bronze
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"RETTON, Mary-Lou"	Women	USA	United States	W	Bronze
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"MCNAMARA, Julianne Lyn"	Women	USA	United States	W	Silver
+LosAngeles	1984	Gymnastics	Artistic G.	floor exercises	"LOU, Yun"	Men	CHN	China	M	Silver
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"SILIVAS, Daniela"	Women	ROU	Romania	W	Gold
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"IKETANI, Yukio"	Men	JPN	Japan	M	Bronze
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"DOUDEVA, Diana"	Women	BUL	Bulgaria	W	Bronze
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"KHARIKOV, Serguei"	Men	URS	Soviet Union	M	Gold
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"ARTEMOV, Vladimir"	Men	URS	Soviet Union	M	Silver
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"BOGINSKAYA, Svetlana"	Women	URS	Soviet Union	W	Silver
+Seoul	1988	Gymnastics	Artistic G.	floor exercises	"LOU, Yun"	Men	CHN	China	M	Bronze
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"BONTAS, Cristina"	Women	ROU	Romania	W	Bronze
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"LI, Xiaosahuang"	Men	CHN	China	M	Gold
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"GOUTSOU, Tatiana"	Women	EUN	Unified team	W	Bronze
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"ONODI, Henrietta"	Women	HUN	Hungary	W	Silver
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"IKETANI, Yukio"	Men	JPN	Japan	M	Silver
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"MILOSOVICI, Lavinia Corina"	Women	ROU	Romania	W	Gold
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"MILLER, Shannon"	Women	USA	United States	W	Bronze
+Barcelona	1992	Gymnastics	Artistic G.	floor exercises	"MISUTIN, Grigori"	Men	EUN	Unified team	M	Silver
+Atlanta	1996	Gymnastics	Artistic G.	floor exercises	"LI, Xiaosahuang"	Men	CHN	China	M	Silver
+Atlanta	1996	Gymnastics	Artistic G.	floor exercises	"AMANAR, Simona"	Women	ROU	Romania	W	Silver
+Atlanta	1996	Gymnastics	Artistic G.	floor exercises	"PODKOPAYEVA, Lilia"	Women	UKR	Ukraine	W	Gold
+Atlanta	1996	Gymnastics	Artistic G.	floor exercises	"DAWES, Dominique"	Women	USA	United States	W	Bronze
+Atlanta	1996	Gymnastics	Artistic G.	floor exercises	"MELISSANIDIS, Ioannis"	Men	GRE	Greece	M	Gold
+Atlanta	1996	Gymnastics	Artistic G.	floor exercises	"NEMOV, Alexei"	Men	RUS	Russia	M	Bronze
+Sydney	2000	Gymnastics	Artistic G.	floor exercises	"AMANAR, Simona"	Women	ROU	Romania	W	Bronze
+Sydney	2000	Gymnastics	Artistic G.	floor exercises	"IOVTCHEV, Iordan"	Men	BUL	Bulgaria	M	Bronze
+Sydney	2000	Gymnastics	Artistic G.	floor exercises	"ZAMOLODCHIKOVA, Elena"	Women	RUS	Russia	W	Gold
+Sydney	2000	Gymnastics	Artistic G.	floor exercises	"VIHROVS, Igors"	Men	LAT	Latvia	M	Gold
+Sydney	2000	Gymnastics	Artistic G.	floor exercises	"KHORKINA, Svetlana"	Women	RUS	Russia	W	Silver
+Sydney	2000	Gymnastics	Artistic G.	floor exercises	"NEMOV, Alexei"	Men	RUS	Russia	M	Silver
+Athens	2004	Gymnastics	Artistic G.	floor exercises	"SOFRONIE, Nicoleta Daniela"	Women	ROU	Romania	W	Silver
+Athens	2004	Gymnastics	Artistic G.	floor exercises	"DRAGULESCU, Marian"	Men	ROU	Romania	M	Silver
+Athens	2004	Gymnastics	Artistic G.	floor exercises	"MORENO, Patricia"	Women	ESP	Spain	W	Bronze
+Athens	2004	Gymnastics	Artistic G.	floor exercises	"PONOR, Catalina"	Women	ROU	Romania	W	Gold
+Athens	2004	Gymnastics	Artistic G.	floor exercises	"IOVTCHEV, Iordan"	Men	BUL	Bulgaria	M	Bronze
+Athens	2004	Gymnastics	Artistic G.	floor exercises	"SHEWFELT, Kyle"	Men	CAN	Canada	M	Gold
+Beijing	2008	Gymnastics	Artistic G.	floor exercises	"LIUKIN, Nastia"	Women	USA	United States	W	Bronze
+Beijing	2008	Gymnastics	Artistic G.	floor exercises	"ZOU, Kai"	Men	CHN	China	M	Gold
+Beijing	2008	Gymnastics	Artistic G.	floor exercises	"DEFERR, Gervasio"	Men	ESP	Spain	M	Silver
+Beijing	2008	Gymnastics	Artistic G.	floor exercises	"JOHNSON, Shawn"	Women	USA	United States	W	Silver
+Beijing	2008	Gymnastics	Artistic G.	floor exercises	"IZBASA, Sandra"	Women	ROU	Romania	W	Gold
+Beijing	2008	Gymnastics	Artistic G.	floor exercises	"GOLOTSUTSKOV, Anton"	Men	RUS	Russia	M	Bronze
