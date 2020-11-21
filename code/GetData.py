@@ -11,7 +11,8 @@ contents = data.readlines()
 for x in contents:
 	temp = x.split()
 	if(temp[2] == "Archery"):
-		Archery.write(x)
+            if(temp[4] == "individual"):
+                    Archery.write(x)
 	if(temp[2] == "Aquatics"):
 		if(temp[3] == "Diving"):
 			if(temp[4] == "3m"):
