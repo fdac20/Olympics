@@ -1,0 +1,39 @@
+Contries	Temperatures
+South Korea	11.9
+United States	10.8
+Soviet Union	5.15
+Finland	3.22
+France	13.5
+Australia	18.7
+Italy	14.5
+Ukraine	8.47
+China	14.4
+United Kingdom	9.43
+Japan	15.6
+Unified Team	5.15
+Netherlands	9.47
+Russia	5.15
+Sweden	6.88
+Canada	7.28
+Mexico	23.8
+East Germany	9.32
+Germany	9.32
+Romania	9.64
+Bulgaria	10.6
+Hungary	10.7
+Spain	16.6
+Greece	18.5
+Latvia	6.34
+Pakistan	25.2
+New Zealand	13.7
+India	25.7
+Zimbabwe	22.5
+Argentina	17.8
+West Germany	9.32
+Czechoslovakia	8.35
+Brazil	24.1
+Cuba	25.4
+Poland	7.42
+Yugoslavia	14.3
+Switzerland	8.8
+Peru	16.9
