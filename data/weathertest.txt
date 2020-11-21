@@ -1,0 +1,38 @@
+South Korea	5
+United States	5
+Soviet Union	5
+Finland	5
+France	5
+Australia	5
+Italy	5
+Ukraine	5
+China	5
+United Kingdom	5
+Japan	5
+Unified Team	5
+Netherlands	5
+Russia	5
+Sweden	5
+Canada	5
+Mexico	5
+East Germany	5
+Germany	5
+Romania	5
+Bulgaria	5
+Hungary	5
+Spain	5
+Greece	5
+Latvia	5
+Pakistan	5
+New Zealand	5
+India	5
+Zimbabwe	5
+Argentina	5
+West Germany	5
+Czechoslovakia	5
+Brazil	5
+Cuba	5
+Poland	5
+Yugoslavia	5
+Switzerland	5
+Peru	5
