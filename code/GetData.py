@@ -1,10 +1,10 @@
-data = open('data.txt', 'r')
-Archery = open('archery.txt', 'w+')
-Diving10 = open('diving10.txt', 'w+')
-Volleyball = open('volleyball.txt', 'w+')
-Hockey = open('hockey.txt', 'w+')
-Gymnastics = open('gymnastics.txt', 'w+')
-Diving3 = open('diving3.txt', 'w+')
+data = open('../Data.txt', 'r')
+Archery = open('../data/archery.txt', 'w+')
+Diving10 = open('../data/diving10.txt', 'w+')
+Volleyball = open('../data/volleyball.txt', 'w+')
+Hockey = open('../data/hockey.txt', 'w+')
+Gymnastics = open('../data/gymnastics.txt', 'w+')
+Diving3 = open('../data/diving3.txt', 'w+')
 
 
 contents = data.readlines()
