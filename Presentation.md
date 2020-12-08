@@ -1,1 +1,1 @@
-Our presentation is located in the file code/AnalyzeData.ipynd
+Our presentation is located in the file code/AnalyzeData.ipynb
